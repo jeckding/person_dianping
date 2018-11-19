@@ -1,0 +1,13 @@
+// 定义箭头混合
+@mixin arrow($w:10, $color:#ccc, $dir:top) {
+	width: 0;
+	font-size: 0;
+	border: #{$w}px solid transparent;
+	border-#{$dir}-color: $color;
+}
+// 定义混合
+@mixin clearFix {
+	content: '';
+	display: block;
+	clear: both;
+}

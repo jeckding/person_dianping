@@ -1,0 +1,29 @@
+{
+	"ballMotion":[
+				{
+					"span_title":"云川台球俱乐部",
+					"small_title":"赛台120分钟一对一.节假日通知",
+					"acd_distance":"1.1公里",
+					"CurrentPrice":"76",
+					"OriginalPrice":"96",
+					"img":"/img/90e4bb1169c1b1faa881fddd0bce4f8f41032.jpg.jpg"
+				},
+				{
+					"span_title":"台球俱乐部",
+					"small_title":"120分钟一对一.节假日通知",
+					"acd_distance":"2.2公里",
+					"CurrentPrice":"50",
+					"OriginalPrice":"70",
+					"img":"/img/42e4a7cbc1c71992dade399c6d6ca45f48926.jpg.jpg"
+				},
+				{
+					"span_title":"世界你好你好你好",
+					"small_title":"你好世界世界世界",
+					"acd_distance":"3.5公里",
+					"CurrentPrice":"100",
+					"OriginalPrice":"300",
+					"img":"/img/05e3791ee9e103ade0719ff3d822bae5188758.jpg.jpg"
+				}
+
+	]
+}

@@ -1,0 +1,127 @@
+{
+	"ad": [
+		{
+			"title": "犇鲜牛羊肉下货批发",
+			"price": 1.2,
+			"originPrice": 1.5,
+			"id": "0",
+			"url": "01.png",
+			"src": "https://p0.meituan.net/deal/4f48438a56fe31c82326197b16d7a5991401367.png%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": "犇鲜牛羊肉下货批发",
+			"description": "仅售19.9元！价值26元的单人传统牛肉面，可免费使用包间，提供免费WiFi。",
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "朝阳北路常营地铁站F出口右侧长楹天街购物中心西区B2楼",
+			"branchName": "龙湖长楹天街店",
+			"businessHours": "周一至周日 09:30-21:30",
+			"cityId": 2,
+		    "distance": ">100km",
+			"phoneNo": "01053670605",
+			"shopName": "东方宫中国兰州牛肉拉面(龙湖长楹天街店)",
+			"shopPower": 40,
+			"shopUuid": "21602923",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"title":"春伊坊春林蛋糕",
+			"price": 1.9,
+			"originPrice": 4,
+			"id": "1",
+			"url": "01.jpg",
+			"src": "https://p0.meituan.net/deal/133784cc19fe96b8a16a96bb5b87cb4099705.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"description": "仅售31.8元！价值54元的招牌品质单人餐！，可免费使用包间，提供免费WiFi。",
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "圆明园西路18号中发百旺商城5层",
+			"branchName": "中发百旺商城店",
+			"businessHours": "周一至周日 09:30-21:00",
+			"cityId": 2, 
+			"distance": ">100km",
+			"phoneNo": "01062838111",
+			"shopName": "合利屋(中发百旺商城店)",
+			"shopPower": 35,
+			"shopUuid": "23198469",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"title": "顶呱瓜蛋糕坊",
+			"price": 4.9,
+			"originPrice": 7.5,
+			"id": "2",
+			"url": "06.jpg",
+			"src": "https://p1.meituan.net/deal/359de598037f62b40966257677621b6d3618082.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"description": "仅售25元！最高价值32元的单人套餐，提供免费WiFi。",
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "永大路龙湖时代天街B1-12",
+			"branchName": "大兴龙湖店",
+			"businessHours": "周一至周日 10:00-21:30",
+			"cityId": 2, 
+			"distance": ">100km",
+			"phoneNo": "13683383717",
+			"shopName": "奶茶嫁给粉(大兴龙湖店)",
+			"shopPower": 40, 
+			"shopUuid": "98002450",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		}
+	],
+	"list": [
+		{
+			"img": "04.jpg",
+			"title": "老冷削面馆",
+			"description":"低至7.6折西红柿炒鸡蛋盖饭1份",
+			"sales": 2,
+			"price": 9.9,
+			"originPrice": 13,
+			"id": "1"
+		}
+	]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

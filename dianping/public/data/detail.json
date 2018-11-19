@@ -1,0 +1,244 @@
+{
+	"detail": [
+		
+		{
+			"src": "https://p0.meituan.net/deal/cc81ca9d89df9b830563b24276643aec45880.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": "东方宫中国兰州牛肉拉面",
+			"description": "仅售19.9元！价值26元的单人传统牛肉面，可免费使用包间，提供免费WiFi。",
+			"price": 19.9,
+			"originPrice": 26,
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "朝阳北路常营地铁站F出口右侧长楹天街购物中心西区B2楼",
+			"branchName": "龙湖长楹天街店",
+			"businessHours": "周一至周日 09:30-21:30",
+			"cityId": 2,
+		    "distance": ">100km",
+			"phoneNo": "01053670605",
+			"shopName": "东方宫中国兰州牛肉拉面(龙湖长楹天街店)",
+			"shopPower": 40,
+			"shopId": "21602923",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"src": "https://p1.meituan.net/deal/be4149fa1245bfbf6de265efaabd5e62112296.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": "合利屋",
+			"description": "仅售31.8元！价值54元的招牌品质单人餐！，可免费使用包间，提供免费WiFi。",
+			"price": 31.8,
+			"originPrice": 54,
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "圆明园西路18号中发百旺商城5层",
+			"branchName": "中发百旺商城店",
+			"businessHours": "周一至周日 09:30-21:00",
+			"cityId": 2, 
+			"distance": ">100km",
+			"phoneNo": "01062838111",
+			"shopName": "合利屋(中发百旺商城店)",
+			"shopPower": 35,
+			"shopId": "38203859",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"src": "https://p1.meituan.net/deal/d22069034692c98239e322a19ecdc00a44954.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": "奶茶嫁给粉",
+			"description": "仅售25元！最高价值32元的单人套餐，提供免费WiFi。",
+			"price": 25,
+			"originPrice": 32,
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "永大路龙湖时代天街B1-12",
+			"branchName": "大兴龙湖店",
+			"businessHours": "周一至周日 10:00-21:30",
+			"cityId": 2, 
+			"distance": ">100km",
+			"phoneNo": "13683383717",
+			"shopName": "奶茶嫁给粉(大兴龙湖店)",
+			"shopPower": 40, 
+			"shopId": "98002450",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"src": "https://p1.meituan.net/deal/d22069034692c98239e322a19ecdc00a44954.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": "汉拿山石锅拌饭",
+			"description": "仅售25元！最高价值32元的单人套餐，提供免费WiFi。",
+			"price": 25,
+			"originPrice": 32,
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "中关村大街19号新中关购物中心B1-22",
+			"branchName": "新中关店",
+			"businessHours": "周一至周日 10:00-22:00",
+			"cityId": 2, 
+			"distance": ">100km",
+			"phoneNo": "01062682363",
+			"shopName": "汉拿山石锅拌饭(新中关店)",
+			"shopPower": 35, 
+			"shopId": "60854341",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"src": "https://p1.meituan.net/deal/a3b69312bd217360e88b7bc7c01e13d082906.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": "蘭芳園",
+			"description": "仅售12元！最高价值15元的饮品6选1，建议单人使用。",
+			"price": 12,
+			"originPrice": 15,
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "丰科路与五圈路交叉口丰台万达广场B1022A",
+			"branchName": "丰台万达广场店",
+			"businessHours": "周一至周日 10:00-21:00",
+			"cityId": 2, 
+			"distance": ">100km",
+			"phoneNo": "13261559276",
+			"shopName": "蘭芳園(丰台万达广场店)",
+			"shopPower": 40, 
+			"shopId": "123456",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"src": "https://p0.meituan.net/deal/b7892297e0fb273ed3b7151d483e647731242.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": "功福咖小蹄大作",
+			"description": "仅售15.3元！价值18元的烤猪蹄1份，可免费使用包间，提供免费WiFi。",
+			"price": 15.3,
+			"originPrice": 18,
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "中关村食宝街商场z123z125",
+			"branchName": "食宝街店",
+			"businessHours": "周一至周日 10:00-22:00",
+			"cityId": 2,
+			 "distance": ">100km",
+			"phoneNo": "15510127754",
+			"shopName": "功福咖小蹄大作(食宝街店)",
+			"shopPower": 40,
+			"shopId": "76891837",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"src": "https://p1.meituan.net/deal/a5d9800b5879d596100bfa40ca631396114262.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": "醉面 一碗醉香的肉酱面",
+			"description": "仅售17.5元！最高价值20元的单人套餐。",
+			"price": 17.5,
+			"originPrice": 20,
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "万泉河苏州街76号",
+			"branchName": "苏州桥店",
+			"businessHours": "周一至周日 10:30-22:00",
+			"cityId": 2,
+			"distance": ">100km",
+			"phoneNo": "13810489122",
+			"shopName": "醉面 一碗醉香的肉酱面(苏州桥店)",
+			"shopPower": 45,
+			"shopId": "69223334",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		},
+		{
+			"src": "https://p0.meituan.net/deal/12fd9751c4fed380779ce27358659c04439372.jpg%40450w_280h_1e_1c_1l%7Cwatermark%3D1%26%26r%3D1%26p%3D9%26x%3D2%26y%3D2%26relative%3D1%26o%3D20",
+			"title": " 煜麒香重庆小面",
+			"description": "仅售12.9元！价值18元的麻辣小面（店长推荐）1份，提供免费WiFi。",
+			"price": 12.9,
+			"originPrice": 18,
+			"evaluate": 4.5,
+			"togotherBuy": "一元两个小菜",
+			"togetherPrice": "1元",
+			"othertime": "2018年2月12日至2018年2月23日",
+			"useTime": "10:00-24:00,请您提前48小时预约，预约电话：010-8424-3309。（仅限东直门店自取）",
+			"tixing": "无需预约，消费高峰时可能需要等位",
+			"rule": "每张团购券建议1人使用",
+			"address": "复兴路69号院2号华熙LIVE.hi-up西区B1层",
+			"branchName": "华熙LIVE•hi-up店",
+			"businessHours": "周一至周日 10:00-22:00",
+			"cityId": 2,
+			"distance": ">100km",
+			"phoneNo": "01068150186",
+			"shopName": "煜麒香重庆小面(华熙LIVE•hi-up店)",
+			"shopPower": 35,
+			"shopId": "80538957",
+			"youknow": [
+				"提前48小时预约，电话：010-8424-3309",
+				"每张美团券建议4至6人使用",
+				
+				"停车位收费标准：详情咨询商家"
+			]
+		}
+
+	]
+	
+		
+}
+		
+
+
+		
+		

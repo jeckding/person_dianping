@@ -1,0 +1,16 @@
+
+$navColor: #06c1ae;
+
+@mixin arrow($w: 10px, $color: #000, $dir: top) {
+	width: 0;
+	font-size: 0;
+	border: $w solid transparent;
+	border-#{$dir}-color: $color;
+}
+@mixin clearfix {
+	&:after {
+		content: '';
+		display: block;
+		clear: both;
+	}	
+}

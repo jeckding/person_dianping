@@ -1,0 +1,362 @@
+{
+	
+	"list": [
+	{
+						"shopName": "功福咖小蹄大作",
+						"dealgroupid": "21193321",
+						"dealGroupTitle": "[中关村] 低至8.5折烤猪蹄1份 ",
+						"dealgroupPrice": "15.3",
+						"marketPrice": "18",
+						"saleDesc": "",
+						"shopId": "76891837",
+						"defaultPic": "https://p0.meituan.net/deal/b7892297e0fb273ed3b7151d483e647731242.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "15660",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.96",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售15660",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/21193321"
+	},
+	{
+						"shopName": "煜麒香重庆小面",
+						"dealgroupid": "26030169",
+						"dealGroupTitle": "[五棵松] 低至7.2折麻辣小面（店长推荐）1份 ",
+						"dealgroupPrice": "12.9",
+						"marketPrice": "18",
+						"saleDesc": "",
+						"shopId": "80538957",
+						"defaultPic": "https://p0.meituan.net/deal/96144f4c8d4f75c5f9623b53b7375bcc411246.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "5679",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.0",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售5679",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/26030169"
+	}, 
+	{
+						"shopName": "醉面 一碗醉香的肉酱面",
+						"dealgroupid": "8103134",
+						"dealGroupTitle": "[7店通用] 低至8.8折单人套餐 ",
+						"dealgroupPrice": "17.5",
+						"marketPrice": "20",
+						"saleDesc": "",
+						"shopId": "69223334",
+						"defaultPic": "https://p1.meituan.net/deal/a5d9800b5879d596100bfa40ca631396114262.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "27020",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.99",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售27020",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/8103134"
+	},
+	{
+						"shopName": "汉拿山石锅拌饭",
+						"dealgroupid": "27392259",
+						"dealGroupTitle": "[2店通用] 低至4.3折石锅拌饭五选一 ",
+						"dealgroupPrice": "26.8",
+						"marketPrice": "62",
+						"saleDesc": "",
+						"shopId": "60854341",
+						"defaultPic": "https://p0.meituan.net/deal/dfc7c4b16289801ef87047d618502c3555397.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "12611",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.0",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售12611",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/27392259"
+	}, 
+	{
+						"shopName": "蘭芳園",
+						"dealgroupid": "21153567",
+						"dealGroupTitle": "[11店通用] 低至8.0折饮品6选1 ",
+						"dealgroupPrice": "12",
+						"marketPrice": "15",
+						"saleDesc": "",
+						"shopId": "1",
+						"defaultPic": "https://p1.meituan.net/deal/a3b69312bd217360e88b7bc7c01e13d082906.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "30116",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.97",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售30116",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/21153567"
+	}, 
+	{
+						"shopName": "东方宫中国兰州牛肉拉面",
+						"dealgroupid": "14087979",
+						"dealGroupTitle": "[管庄] 低至7.7折单人传统牛肉面 ",
+						"dealgroupPrice": "19.9",
+						"marketPrice": "26",
+						"saleDesc": "",
+						"shopId": "21602923",
+						"defaultPic": "https://p1.meituan.net/deal/d020bbbdada56f48776b2f43836ce45944393.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "25892",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.97",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售25892",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/14087979"
+	}, 
+	{
+						"shopName": "村上一屋",
+						"dealgroupid": "23612111",
+						"dealGroupTitle": "[24店通用] 低至5.7折抢购芒果大虾卷1份 ",
+						"dealgroupPrice": "19.9",
+						"marketPrice": "35",
+						"saleDesc": "",
+						"shopId": "83521208",
+						"defaultPic": "https://p0.meituan.net/deal/96129d6eff69242fd0926b3405c2efcf77174.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "27628",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.0",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售27628",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/23612111"
+	},
+	{
+						"shopName": "醉面 一碗醉香的肉酱面",
+						"dealgroupid": "8103134",
+						"dealGroupTitle": "[7店通用] 低至8.8折单人套餐 ",
+						"dealgroupPrice": "17.5",
+						"marketPrice": "20",
+						"saleDesc": "",
+						"shopId": "69223334",
+						"defaultPic": "https://p1.meituan.net/deal/a5d9800b5879d596100bfa40ca631396114262.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "27020",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.99",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售27020",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/8103134"
+	},
+	{
+						"shopName": "汉拿山石锅拌饭",
+						"dealgroupid": "27392259",
+						"dealGroupTitle": "[2店通用] 低至4.3折石锅拌饭五选一 ",
+						"dealgroupPrice": "26.8",
+						"marketPrice": "62",
+						"saleDesc": "",
+						"shopId": "60854341",
+						"defaultPic": "https://p0.meituan.net/deal/dfc7c4b16289801ef87047d618502c3555397.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "12611",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.0",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售12611",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/27392259"
+	}, 
+	{
+						"shopName": "蘭芳園",
+						"dealgroupid": "21153567",
+						"dealGroupTitle": "[11店通用] 低至8.0折饮品6选1 ",
+						"dealgroupPrice": "12",
+						"marketPrice": "15",
+						"saleDesc": "",
+						"shopId": "123456",
+						"defaultPic": "https://p1.meituan.net/deal/a3b69312bd217360e88b7bc7c01e13d082906.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "30116",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.97",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售30116",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/21153567"
+	}, 
+	{
+						"shopName": "东方宫中国兰州牛肉拉面",
+						"dealgroupid": "14087979",
+						"dealGroupTitle": "[管庄] 低至7.7折单人传统牛肉面 ",
+						"dealgroupPrice": "19.9",
+						"marketPrice": "26",
+						"saleDesc": "",
+						"shopId": "21602923",
+						"defaultPic": "https://p1.meituan.net/deal/d020bbbdada56f48776b2f43836ce45944393.jpg@180w_180h_1e_1c_1l_80q|watermark=0",
+						"item_type": "standard",
+						"distance": null,
+						"regionName": "",
+						"tgcurrentjoin": "25892",
+						"recreason": "",
+						"needpromocall": "true",
+						"tgrate": "0.97",
+						"pictag": {
+							"tag": "免预约",
+							"color": "#e5bf86"
+						},
+						"itemtag": {
+							"tag": "",
+							"color": "#FFF"
+						},
+						"promovalue": "",
+						"priceexplain": "",
+						"priceextrainfo": "",
+						"salesdesc": "已售25892",
+						"biz_id": "0",
+						"item_type_self": "tuan",
+						"schema": "https://m.dianping.com/tuan/deal/14087979"
+	}
+
+
+
+
+	]
+}
+		
